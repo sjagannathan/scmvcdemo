@@ -22,7 +22,7 @@ namespace Sitecore.MVC.Presentation
         {
             get
             {
-                return Sitecore.Context.PageMode.IsPageEditor;
+                return Sitecore.Context.PageMode.IsExperienceEditor;
             }
         }
         

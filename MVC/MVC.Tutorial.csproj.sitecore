@@ -1,5 +1,5 @@
 ﻿<Project>
   <PropertyGroup>
-    <Site Server="mvc" UserName="sitecore\admin" IsRemoteSitecore="True" />
+    <Site Server="scmvcdemo" UserName="sitecore\admin" IsRemoteSitecore="True" />
   </PropertyGroup>
 </Project>
