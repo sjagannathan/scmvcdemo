@@ -1,0 +1,27 @@
+﻿---
+ID: "3044ee2c-9f48-4f8c-b08f-c85fb6b28d9a"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "e86d7dea-6e5d-4f00-bb24-a087a37a6139"
+Path: /sitecore/content/Home/silverstone
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140225T132102
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "cc83345f-5a2e-4c57-af3f-c76c5c4eb4dc"
+      Hint: Text
+      Value: <p>Silverstone hosts the British Grand Prix and is probably the most recognised and spectacular track day Circuit in the UK. It's a pleasure to drive or ride on a track day knowing that some of the greatest names in motorsport have been laid down some rubber underneath you. Silverstone Bike track days and Silverstone Car track days regularly take place on the Grand Prix and National Circuit, whilst the driving experiences at Silverstone are mainly on the International and Southern Circuits.</p>
+    - ID: "daa253b5-0bb3-4225-a0a9-16f56418a363"
+      Hint: Name
+      Value: Silverstone

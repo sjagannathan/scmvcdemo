@@ -1,0 +1,24 @@
+﻿---
+ID: "bea0cad6-7868-4c8b-9517-9b4baa3d2a12"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "65232aff-66aa-4310-b924-6f62bfea0f27"
+Path: "/sitecore/content/Home/peugot-306"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140130T152730
+    - ID: "6adea341-a53b-4ac4-b9ee-d4a4aa246024"
+      Hint: Model
+      Value: 306
+    - ID: "a3a6dddb-a83c-4f65-98b9-d48ec9f72971"
+      Hint: Make
+      Value: Peugot

@@ -1,0 +1,17 @@
+﻿---
+ID: "04bc0999-5069-40de-ab07-0f7bf52da2b8"
+Parent: "e4ae0315-e332-46f8-97a7-39d0e8fdbd98"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/MVC Tutorial/Driver/Driver
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140225T131221
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

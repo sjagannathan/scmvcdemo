@@ -1,0 +1,46 @@
+﻿---
+ID: "81b81009-4c09-4d31-88a0-4486a7fe35e0"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "e4ae0315-e332-46f8-97a7-39d0e8fdbd98"
+Path: "/sitecore/content/Home/colin-mcrae"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{AC02FC2A-78A0-4F83-B22F-22AB9D8C738B}">
+        <r
+          id="{D153494B-4C85-4B4A-894A-BB0E4C930702}"
+          ph="/main/middlecol"
+          uid="{23DEA20E-A469-49AB-B0A4-32256EA06CCE}" />
+        <r
+          id="{9A394BC7-7D3C-43AA-A342-A70473F30373}"
+          ph="Main"
+          uid="{16391687-ABF3-4496-90E8-3169861ABF4C}" />
+        <r
+          id="{24B9F8AF-5EC9-4238-8C7E-67C37D34FCE2}"
+          ph="main"
+          uid="{BEA3C97D-9DA3-478C-A0BC-55513974DDEF}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140225T131934
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b666b2bc-49fb-424a-9d1f-35e003eac653"
+      Hint: Name
+      Value: Colin McRae

@@ -1,0 +1,27 @@
+﻿---
+ID: "71fe9cec-9883-4363-8b2e-4d69efbc3e71"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "e86d7dea-6e5d-4f00-bb24-a087a37a6139"
+Path: /sitecore/content/Home/nurburgring
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140225T132102
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "cc83345f-5a2e-4c57-af3f-c76c5c4eb4dc"
+      Hint: Text
+      Value: "<p>Nurburgring is designed as a dual-purpose test track and race circuit. 13 miles long and at least 73 bends add up to what even racing drivers describe as the most demanding circuit in the world. There are 2 main layouts: The Nordschleife Circuit and the GP-Strecke.</p>"
+    - ID: "daa253b5-0bb3-4225-a0a9-16f56418a363"
+      Hint: Name
+      Value: Nurburgring

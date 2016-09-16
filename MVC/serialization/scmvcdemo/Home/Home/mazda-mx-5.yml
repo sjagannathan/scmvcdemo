@@ -1,0 +1,30 @@
+﻿---
+ID: "c826fce1-423e-47ff-b4ee-f8bc5cc6f48d"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "65232aff-66aa-4310-b924-6f62bfea0f27"
+Path: "/sitecore/content/Home/mazda-mx-5"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140130T152730
+    - ID: "49b69934-ba74-485f-a9a2-06db29856752"
+      Hint: Website
+      Value: "<link linktype=\"external\" url=\"http://www.mazda.co.uk/cars/mx-5-soft-top/\" anchor=\"\" target=\"\" />"
+    - ID: "52a7f95e-b192-4cee-a8fd-4b5f29d07112"
+      Hint: Image
+      Value: "<image mediaid=\"{BD7ED747-31C0-4A79-AD11-37A2D5CF30F5}\" />"
+    - ID: "6adea341-a53b-4ac4-b9ee-d4a4aa246024"
+      Hint: Model
+      Value: "MX-5"
+    - ID: "a3a6dddb-a83c-4f65-98b9-d48ec9f72971"
+      Hint: Make
+      Value: Mazda

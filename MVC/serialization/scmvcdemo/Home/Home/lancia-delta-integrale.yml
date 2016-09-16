@@ -1,0 +1,33 @@
+﻿---
+ID: "01e67b45-7266-4f13-ae01-f56b52253cb5"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "65232aff-66aa-4310-b924-6f62bfea0f27"
+Path: "/sitecore/content/Home/lancia-delta-integrale"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140203T103957
+    - ID: "49b69934-ba74-485f-a9a2-06db29856752"
+      Hint: Website
+      Value: "<link linktype=\"external\" text=\"Test test test\" url=\"\" anchor=\"\" target=\"\" />"
+    - ID: "52a7f95e-b192-4cee-a8fd-4b5f29d07112"
+      Hint: Image
+      Value: "<image mediaid=\"{2B815A38-BBCB-405D-90F4-A5B06AD69814}\" />"
+    - ID: "6adea341-a53b-4ac4-b9ee-d4a4aa246024"
+      Hint: Model
+      Value: Delta
+    - ID: "7ce0e45b-a9ee-475f-badf-072145b90262"
+      Hint: Description
+      Value: "<p>The Lancia Delta is a compact luxury car produced by Italian automaker Lancia with the first generation being produced between 1979 and 1994, the second generation running from 1993 until 1999, and the third generation Delta entering production in 2008. It was first shown in Frankfurt Motor Show in 1979.[1] The Delta is best known for its World Rally Championship career in the late 1980s and early 1990s, when it dominated rallying. As they were obliged to by the Group A regulations, Lancia offered road-going versions of these competition cars &mdash; the Lancia Delta HF 4WD and HF Integrale - 5000 of each variant having to be produced before the car could enter competition. In fact, Lancia sold 44,296 Integrales.</p>"
+    - ID: "a3a6dddb-a83c-4f65-98b9-d48ec9f72971"
+      Hint: Make
+      Value: Lancia

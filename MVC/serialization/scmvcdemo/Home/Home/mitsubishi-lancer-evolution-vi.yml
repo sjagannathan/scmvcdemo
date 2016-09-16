@@ -1,0 +1,30 @@
+﻿---
+ID: "035efb3b-2fa2-4ef6-a3df-a8e52afda7d1"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "65232aff-66aa-4310-b924-6f62bfea0f27"
+Path: "/sitecore/content/Home/mitsubishi-lancer-evolution-vi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140130T152730
+    - ID: "49b69934-ba74-485f-a9a2-06db29856752"
+      Hint: Website
+      Value: "<link linktype=\"internal\" text=\"test\" querystring=\"\" target=\"\" id=\"{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}\" />"
+    - ID: "52a7f95e-b192-4cee-a8fd-4b5f29d07112"
+      Hint: Image
+      Value: "<image mediaid=\"{E165DB3B-3E65-4D09-BFF2-1999D1728893}\" />"
+    - ID: "6adea341-a53b-4ac4-b9ee-d4a4aa246024"
+      Hint: Model
+      Value: Lancer Evolution VI
+    - ID: "a3a6dddb-a83c-4f65-98b9-d48ec9f72971"
+      Hint: Make
+      Value: Mitsubishi Lancer

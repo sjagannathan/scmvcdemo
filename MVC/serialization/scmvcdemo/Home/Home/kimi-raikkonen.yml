@@ -1,0 +1,29 @@
+﻿---
+ID: "714308f9-15fe-4865-9f54-4fc70b8ccf6e"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "e4ae0315-e332-46f8-97a7-39d0e8fdbd98"
+Path: "/sitecore/content/Home/kimi-raikkonen"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140225T131934
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "a155cb09-d90e-433d-b5ca-93eda932f6b8"
+      Hint: Text
+      Value: |
+        <p>"<strong>The helmet has a special meaning for many drivers. How important is it to you?</strong>"</p>
+        <p>"It protects my head."</p>
+    - ID: "b666b2bc-49fb-424a-9d1f-35e003eac653"
+      Hint: Name
+      Value: Kimi Räikkönen
