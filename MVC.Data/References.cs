@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVC.Data
+namespace MVC.Data 
 {
     public class References
     {
