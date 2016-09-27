@@ -14,9 +14,9 @@ using Sitecore.Data.Items;
 
 namespace MVC.Tests.Controllers
 {
-    [TestClass]
-    public class CircuitControllerTest
-    {
+   // [TestClass]
+   // public class CircuitControllerTest
+   // {
         //[TestMethod]
         //public void CircuitControllerTest_WillNeverWork()
         //{
@@ -28,5 +28,5 @@ namespace MVC.Tests.Controllers
 
         //    var result = circuitController.Featured();
         //}
-    }
+   // }
 }
